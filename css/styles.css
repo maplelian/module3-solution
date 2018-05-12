@@ -1,0 +1,23 @@
+.navbar-brand a{
+    color:lightgray;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#headbg{
+    background-color: cornflowerblue;
+}
+#nav-list {
+    margin-top: 0px;
+}
+#nav-list a {
+    border: 1px solid black;
+    color: black;
+    background-color: darkgrey;
+  }
+#nav-list a:hover {
+    background: #E7E7E7;
+  }
+h4{
+      padding-top: 15px;
+  }
